@@ -6,6 +6,7 @@ This repository contains code and resources for conducting analysis on health & 
 **I completed this analysis as part of my 1 month internship at Unified Mentor. I was asked to analyze the health and medical data &amp; come up with meaningful insights.**
 
 [Tableau Dashboard](https://public.tableau.com/app/profile/tahir.malik/viz/heart-rate-diagnose-data-analysis/Dashboard)
+![Dashboard](https://github.com/tahir7malik/heart-rate-diagnose-data-analysis/blob/main/plots/heart-rate-diagnose-data-analysis-dashboard.png)
 
 ###  Data Sources
 
